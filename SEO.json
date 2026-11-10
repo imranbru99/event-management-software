@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "event-management-software",
+  "description": "Event Management Software — Events Laravel Filament ERP/SaaS for Bangladesh (Dhaka). Event software for venues, vendors, budgets, guest lists, and ticketing. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "events",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/event-management-software"
+}
